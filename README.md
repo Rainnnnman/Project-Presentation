@@ -1,1 +1,1 @@
-# Unet-Segmentation-intestines-and-stomach-
+仅作个人代码展示使用
